@@ -15,6 +15,7 @@ OBJETIVOS SECUNDARIOS:
 MARCO TEORICO:
 
 ![image](https://user-images.githubusercontent.com/116833736/213511982-4995cbc2-97c7-444d-8efc-6aa513623bbc.png)
+![image](https://user-images.githubusercontent.com/116833736/213515288-b05aaebb-d6d2-4532-a708-56bce848d934.png)
 
 MATERIALES:
 
@@ -76,6 +77,8 @@ Una vez terminado el circuito y comprobado su funcionamiento, podemos concluir q
 
 BIBLIOGRAFIA:
 
-‌-José Ramón López. (2022). Circuitos eléctricos. Juntadeandalucia.es. https://www.juntadeandalucia.es/averroes/centros-tic/21700290/helvia/aula/archivos/repositorio/0/39/html/circuits.html#:~:text=Se%20dice%20que%20un%20circuito,de%20que%20no%20lo%20permita.&text=Decimos%20que%20una%20corriente%20es,siempre%20en%20el%20mismo%20sentido.
+-figueroa. (2022, January 30). Circuito escalera, 3 vías, conmutable, vaivén paso a paso. SENSORICX. https://sensoricx.com/conocimiento/circuito-escalera-3-vias-conmutable-vaiven-paso-a-paso/
 
--Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
+-Capítulo 2. Marco teórico 2.1 Instalaciones eléctricas. (n.d.). http://repositorio.upsin.edu.mx/Fragmentos/Capitulo2FRAGMENTOCAPITULO2213.pdf
+
+-Félix, R., Quintela, Carlos, R., & Melchor, R. (n.d.). 3. Corriente eléctrica. https://electricidad.usal.es/Principal/Fenomenos/Publicaciones/Descargas/03_Corriente_electrica.pdf
